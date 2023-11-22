@@ -1,5 +1,5 @@
 {
-    "name": "nl.idaas/openid-server",
+    "name": "omitobisam/openid-server",
     "description": "OpenID Connect server for PHP",
     "type": "library",
     "config": {
@@ -30,8 +30,8 @@
     "license": "LGPL-3.0-only",
     "authors": [
         {
-            "name": "Arie Timmerman",
-            "email": "arietimmerman@gmail.com"
+            "name": "Oluwatobi Omisakin",
+            "email": "omisakin.oluwatobi@gmail.com"
         }
     ],
     "minimum-stability": "stable"
